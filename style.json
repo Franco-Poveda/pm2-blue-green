@@ -1,0 +1,19 @@
+{
+    "widget": {
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Blue_green_cyan_nevit_116.svg/2000px-Blue_green_cyan_nevit_116.svg.png",
+        "theme": ["#141A1F", "#222222", "#3ff", "#3ff"],
+        "el": {
+            "probes": false,
+            "actions": false
+        },
+        "block": {
+            "actions": true,
+            "issues": true,
+            "meta": false,
+            "main_probes": ["Current"
+            ],
+            "main_actions": ["swap", "updateS3"
+            ]
+        }
+    }
+}

@@ -11,12 +11,12 @@
   },
   "config": {
     "app_name": "index",
-    "app_path": "/home/francop/src/test",
-    "work_path": "/home/francop/deploys",
+    "app_path": "/home/src/test",
+    "work_path": "/home/deploys",
     "S3_bucket": "/it-cookbooks",
     "S3_key": "src.tar.gz",
-    "accessKeyId": "AKIAIMLDR67OJKSYZYWA",
-    "secretAccessKey": "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",
+    "accessKeyId": "XXXXXXXXXXXXX",
+    "secretAccessKey": "XXXxXXXXX",
     "region": "sa-east-1"
   },
   "scripts": {
